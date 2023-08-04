@@ -5,3 +5,9 @@ hello
 hai
 what
 where
+
+
+how are you 
+i am fine 
+what is your name 
+can i help you
